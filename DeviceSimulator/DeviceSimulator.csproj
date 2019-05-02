@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>sn.pfx</AssemblyOriginatorKeyFile>
+    <Authors>Ivan Brajković</Authors>
+    <Company>HT</Company>
+    <Description>Simulate input from devices.</Description>
+  </PropertyGroup>
+
+</Project>
